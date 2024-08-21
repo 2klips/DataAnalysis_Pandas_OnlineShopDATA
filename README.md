@@ -22,3 +22,14 @@
 3. 전체 매출 ( 요일, 월, 시간대별 )
 4. 국가별 매출 및 그래프 시각화
 5. 우수고객, 판매상품 top 10
+
+
+---
+
+### 국가별 매출
+![image](https://github.com/user-attachments/assets/804fe5b7-a896-4a2b-96d6-1558c887bb51)
+
+---
+
+### 월별 매출
+![image](https://github.com/user-attachments/assets/fe99618b-bc3b-442a-9631-f0f10cc7405a)
